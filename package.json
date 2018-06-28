@@ -1,0 +1,23 @@
+{
+  "name": "post-instances",
+  "version": "1.0.0",
+  "description": "a script to POST to /instances",
+  "main": "postInstances.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenHanzlik/Post-Instances.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenHanzlik/Post-Instances/issues"
+  },
+  "homepage": "https://github.com/StephenHanzlik/Post-Instances#readme",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
